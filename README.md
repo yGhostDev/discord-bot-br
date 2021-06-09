@@ -1,2 +1,4 @@
 # discord-bot-br
-Vou soltar uns comandos de discord.js! Br!
+# Pegue comandos em Discord.js!
+
+Aqui, vou soltar uns comandos em djs, para voces pegarem!
